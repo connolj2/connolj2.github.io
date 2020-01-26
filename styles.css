@@ -37,6 +37,10 @@ body {
     text-shadow: 1px 1px 1px black;
   }
 
+  .display-4 .lead {
+    color: purple
+  }
+
  /* The background color of the "testimonials" part UPDATE*/
 
 
