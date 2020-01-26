@@ -42,14 +42,14 @@ body {
 
 
   .blockquote-footer {
-    color: white;
+    color: lightslategray;
     font-family: 'Merriweather', sans-serif;
     
   }
 
   .testimonials {
     background-image: url(charleston.JPG);
-    color: white;
+    color: lightslategray;
     text-shadow: 1px 1px 1px black;
   }
   
