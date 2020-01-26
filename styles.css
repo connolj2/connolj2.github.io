@@ -29,10 +29,11 @@ body {
     background-image: url(telly.jpg);
     background-repeat: no-repeat;
     background-size: auto;
+    
   
     /* Fonts */
 
-    color: white;
+    color: purple;
     text-shadow: 1px 1px 1px black;
   }
 
